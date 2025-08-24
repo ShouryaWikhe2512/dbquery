@@ -1,0 +1,201 @@
+record_id,person_id,incident_type,ipc_section,incident_year,severity_level,conviction_status
+c4298232-642,c5f25e012918,Cyber Crime,IPC 66C,2022,3,Chargesheet Filed
+9208845e-947,9c8ebd6953cd,Assault,IPC 351,2018,4,Arrested
+40ce12bf-566,34eb7a6f4b35,Cyber Crime,IPC 66C,2020,3,Chargesheet Filed
+96abbd1f-834,628f801b366c,Cheating,IPC 420,2020,3,Chargesheet Filed
+5055413f-911,3b0b1da42bcc,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+f4b2a0b1-1f8,b27ecf7b35b2,Theft,IPC 379,2017,2,Chargesheet Filed
+97be066e-e2a,7b5501d57aa9,Assault,IPC 351,2023,4,Chargesheet Filed
+e9dcb086-529,5e14c29eb753,Theft,IPC 379,2018,2,Arrested
+3aeeb772-7dc,1d3ff33b2019,Assault,IPC 351,2023,4,Acquitted
+c1385c6a-77e,caa6bc9ce133,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+c30f1187-52d,841a5b2a09e8,Theft,IPC 379,2021,2,Acquitted
+01e693d9-12c,ed10120ed5cf,Theft,IPC 379,2016,2,Acquitted
+0590c30c-3b1,ffdcdf406cb7,Assault,IPC 351,2021,4,Chargesheet Filed
+df901a85-0a4,e2ffc03ec232,Cyber Crime,IPC 66C,2016,3,Arrested
+f1607f93-4af,5fdd650490c6,Theft,IPC 379,2015,2,Acquitted
+e4da8ba0-235,9da1fc72da33,Assault,IPC 351,2017,4,Arrested
+8b490775-c8c,d5618875b860,Cyber Crime,IPC 66C,2020,3,Arrested
+ed8210c1-a1a,06cbc23105b5,Theft,IPC 379,2019,2,Acquitted
+7ea1f1ae-c34,9a266aae41aa,Assault,IPC 351,2022,4,Acquitted
+bf10438f-e12,ebf32ba34989,Cyber Crime,IPC 66C,2023,3,Acquitted
+5bbfa16f-5d5,00c69121f605,Cyber Crime,IPC 66C,2022,3,Chargesheet Filed
+7751dcd4-ca5,bb882616ec89,Cheating,IPC 420,2022,3,Acquitted
+3fa93845-e6d,de9b41242cd4,Assault,IPC 351,2016,4,Acquitted
+d84477cf-1ce,68712b638d70,Cheating,IPC 420,2023,3,Arrested
+e9980e5a-a50,4a4cd59332b4,Assault,IPC 351,2017,4,Acquitted
+aa1bfe83-01f,0c711bf51a6b,Cyber Crime,IPC 66C,2018,3,Chargesheet Filed
+1e33fd7a-28c,6a7711a9a393,Assault,IPC 351,2016,4,Acquitted
+a2649160-be7,cdebe60be117,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+e8491df4-0c5,859e7633cdd3,Cyber Crime,IPC 66C,2017,3,Chargesheet Filed
+f553b043-3fc,4a60969f0fd2,Assault,IPC 351,2018,4,Chargesheet Filed
+3cac6ef4-5be,17eecc3ed14d,Cheating,IPC 420,2015,3,Acquitted
+b2cb34ee-fdf,43eb7653f73a,Assault,IPC 351,2018,4,Arrested
+15dee4d5-8af,0fe7bddc4b43,Cyber Crime,IPC 66C,2017,3,Chargesheet Filed
+19fa692b-0cc,34993b6b8c86,Cyber Crime,IPC 66C,2020,3,Acquitted
+c2560bc6-79a,57afe6b8f509,Theft,IPC 379,2019,2,Chargesheet Filed
+1fff71d8-0fa,3ef4c5cdad2a,Cyber Crime,IPC 66C,2018,3,Chargesheet Filed
+19832518-fce,aeb04ffbce27,Assault,IPC 351,2018,4,Arrested
+40d6d09d-ba9,16252cf57ef8,Cheating,IPC 420,2022,3,Acquitted
+21489a88-f61,66b5aad1d614,Assault,IPC 351,2022,4,Acquitted
+750569c6-abe,ebd6f4572f17,Cyber Crime,IPC 66C,2022,3,Arrested
+c88c6e5c-084,d13fe663770b,Theft,IPC 379,2018,2,Chargesheet Filed
+042356f6-190,2c956621d83f,Assault,IPC 351,2019,4,Acquitted
+8ec316a7-e10,5bf75af6f84d,Cheating,IPC 420,2019,3,Arrested
+588e47b8-a70,a11a2bbd744b,Cyber Crime,IPC 66C,2015,3,Acquitted
+d0354cd2-26d,b396b020e97f,Theft,IPC 379,2015,2,Arrested
+2a733f6e-904,169ab09ac63e,Theft,IPC 379,2023,2,Chargesheet Filed
+261df8f9-b06,b2d1f982969a,Assault,IPC 351,2018,4,Acquitted
+2571839c-e6a,fa6077aed0e8,Theft,IPC 379,2021,2,Chargesheet Filed
+1fb9f0fe-e78,610ab4f7559f,Cyber Crime,IPC 66C,2017,3,Arrested
+e76b9d05-d9b,5a804936c497,Cyber Crime,IPC 66C,2015,3,Acquitted
+62fbe2ad-e1d,b720fee77f37,Cyber Crime,IPC 66C,2023,3,Arrested
+eb7b6e27-576,c763e74c2a7b,Cheating,IPC 420,2020,3,Arrested
+a3265b9d-b2a,686dd931cffd,Theft,IPC 379,2020,2,Acquitted
+4eeedfcb-cf5,f93e522174b9,Assault,IPC 351,2023,4,Arrested
+7a18b8b8-d7c,41010264708f,Cyber Crime,IPC 66C,2018,3,Arrested
+e2a7b810-618,951a24327dc0,Cheating,IPC 420,2017,3,Arrested
+d894eee7-a83,88f03e558c5d,Assault,IPC 351,2018,4,Acquitted
+49945ee9-f28,ad8ec376c14a,Cheating,IPC 420,2018,3,Acquitted
+f84724ee-f97,9669295bfbd0,Cheating,IPC 420,2021,3,Acquitted
+f4c806d3-37c,c3a4a000ffe0,Cheating,IPC 420,2019,3,Acquitted
+f756c724-756,97f9c6c590e1,Theft,IPC 379,2019,2,Chargesheet Filed
+e8b5bb3d-7b6,7ed9459b5866,Assault,IPC 351,2016,4,Arrested
+634e0c75-b01,e21e15802bbd,Cyber Crime,IPC 66C,2021,3,Acquitted
+3dd5b6bb-c90,108066cac848,Cheating,IPC 420,2019,3,Chargesheet Filed
+b977e182-679,7a9fab56e614,Assault,IPC 351,2018,4,Acquitted
+500419c9-55b,8415b5f8e5ca,Assault,IPC 351,2016,4,Acquitted
+7b273f4c-7f0,853628b4fe65,Cyber Crime,IPC 66C,2018,3,Acquitted
+fa45554f-799,0c38f9106495,Cyber Crime,IPC 66C,2015,3,Acquitted
+2ad81049-9a3,5180ac73e5c6,Cyber Crime,IPC 66C,2019,3,Acquitted
+0d100241-e8a,1ae82c76e5e8,Cheating,IPC 420,2016,3,Acquitted
+70320920-5ae,00bb1387a8bf,Theft,IPC 379,2016,2,Acquitted
+05a38da3-127,ddedb76c003c,Assault,IPC 351,2018,4,Chargesheet Filed
+5d864d2c-4b9,3f5752c5ed99,Cheating,IPC 420,2018,3,Chargesheet Filed
+96cb5b54-43a,609cb38845ec,Assault,IPC 351,2017,4,Chargesheet Filed
+ed4518c6-625,29f65c454d11,Cyber Crime,IPC 66C,2016,3,Arrested
+f0d00fe0-6fd,77c7be180ab0,Assault,IPC 351,2023,4,Chargesheet Filed
+d5cf5f22-68f,efa278e72632,Assault,IPC 351,2016,4,Acquitted
+faf48260-358,db2f023cd6fc,Theft,IPC 379,2016,2,Arrested
+4e8a9aec-6a2,c9d5584ac282,Assault,IPC 351,2022,4,Acquitted
+9d673635-f2b,ad771daa1c0c,Cyber Crime,IPC 66C,2018,3,Arrested
+0e5da5ed-ef9,ba3f64dbccf4,Theft,IPC 379,2023,2,Chargesheet Filed
+3037b7f4-413,490e27f0081c,Cheating,IPC 420,2015,3,Acquitted
+7d76e814-3fa,0c853e993302,Cheating,IPC 420,2020,3,Acquitted
+5d9d8867-c96,c5c712d618de,Cyber Crime,IPC 66C,2023,3,Acquitted
+c4b59247-ab1,9e28bca55a02,Theft,IPC 379,2022,2,Acquitted
+863e92d2-716,53bf6d451470,Assault,IPC 351,2022,4,Acquitted
+07b90042-71b,bf83d09a35c1,Theft,IPC 379,2018,2,Arrested
+97d876d1-fe0,6e0045aeba4a,Assault,IPC 351,2023,4,Chargesheet Filed
+2103edaa-3b1,9bb1aaa30150,Theft,IPC 379,2016,2,Arrested
+b499268c-c7b,30ea78405e56,Cheating,IPC 420,2021,3,Arrested
+8d75bb3d-5d3,0aa98939b9e1,Cheating,IPC 420,2020,3,Acquitted
+870a6eae-c70,80ee2471487c,Cheating,IPC 420,2023,3,Arrested
+d8934f8f-d33,c43eed3c5e5b,Assault,IPC 351,2023,4,Chargesheet Filed
+f76c52f3-afb,f9824129f9cf,Cyber Crime,IPC 66C,2021,3,Chargesheet Filed
+14166b2a-c8f,f3fa7ae8ea71,Assault,IPC 351,2021,4,Acquitted
+e22bb13b-ee2,b3644a339a8e,Cyber Crime,IPC 66C,2019,3,Acquitted
+8fb1989d-266,9a8ed6d463aa,Theft,IPC 379,2020,2,Arrested
+b08f7718-a94,ebec37ec4e95,Cyber Crime,IPC 66C,2016,3,Chargesheet Filed
+dd0e2989-932,d66995d003e3,Theft,IPC 379,2020,2,Acquitted
+51a491a5-98d,e240367c1d7b,Assault,IPC 351,2015,4,Chargesheet Filed
+1b63e5ca-061,612498625e08,Cheating,IPC 420,2022,3,Chargesheet Filed
+01690113-414,06805db23a22,Cyber Crime,IPC 66C,2021,3,Chargesheet Filed
+599b012f-17d,34f61d99d929,Assault,IPC 351,2015,4,Chargesheet Filed
+6fb854ac-599,a0e880df6008,Theft,IPC 379,2020,2,Acquitted
+6b28011f-b9b,62685db25e18,Cyber Crime,IPC 66C,2016,3,Arrested
+f86be778-7ec,0b9793a2fd08,Assault,IPC 351,2020,4,Acquitted
+8924eab8-8a2,96a9250a8939,Assault,IPC 351,2020,4,Arrested
+fb79ec9c-f7a,5195f7021165,Cyber Crime,IPC 66C,2020,3,Acquitted
+5a8547b4-979,d7b475b6daac,Cheating,IPC 420,2019,3,Chargesheet Filed
+38abb024-f84,7fd6cc7ce404,Cheating,IPC 420,2023,3,Arrested
+e63ff3ea-442,a982e69ec8a5,Cyber Crime,IPC 66C,2017,3,Chargesheet Filed
+ef946fbd-44b,c204f2110670,Assault,IPC 351,2022,4,Chargesheet Filed
+ad182122-f14,e9c4f6f16afc,Cyber Crime,IPC 66C,2017,3,Chargesheet Filed
+c55a7f6a-2a7,2693505b3a89,Cyber Crime,IPC 66C,2018,3,Chargesheet Filed
+62ec0358-793,092d3f7eea71,Cheating,IPC 420,2023,3,Acquitted
+3dae5744-6ca,ec3b52c1090d,Assault,IPC 351,2015,4,Arrested
+90269799-3d1,661afdb96e9d,Cyber Crime,IPC 66C,2022,3,Acquitted
+d539d99c-24f,62cc0b227ee4,Cheating,IPC 420,2022,3,Chargesheet Filed
+d15ceeb5-e2d,c4aa2f650628,Cheating,IPC 420,2020,3,Chargesheet Filed
+d3c44de0-030,cdd44b1d9770,Cyber Crime,IPC 66C,2017,3,Arrested
+237f41db-1a1,aa79ea4f924c,Cheating,IPC 420,2016,3,Acquitted
+da84ec2b-43f,cec56de9a382,Theft,IPC 379,2016,2,Chargesheet Filed
+b0faa653-13a,08765c69c148,Assault,IPC 351,2016,4,Acquitted
+c05251f2-129,6400cf57f131,Theft,IPC 379,2022,2,Acquitted
+b96706a8-fee,26baa6948649,Assault,IPC 351,2017,4,Acquitted
+bfa75227-013,85797fe96031,Theft,IPC 379,2016,2,Acquitted
+f9db01f7-1b8,ca61de612d96,Theft,IPC 379,2019,2,Acquitted
+bf43177a-f6c,eaf2f265dea9,Cheating,IPC 420,2018,3,Chargesheet Filed
+b2954e9b-1f7,2e63a1eded33,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+b063686e-5b6,3b0d7fcc74b7,Cheating,IPC 420,2019,3,Acquitted
+3a2111c2-b78,f8039c175919,Theft,IPC 379,2018,2,Acquitted
+384289b6-415,c4965592025f,Theft,IPC 379,2023,2,Acquitted
+0c5264e1-483,7b234bf8ba67,Theft,IPC 379,2017,2,Arrested
+b840a3d4-d24,ae02e903453a,Assault,IPC 351,2020,4,Acquitted
+0332e755-c64,aae22e9a2bf9,Cheating,IPC 420,2017,3,Chargesheet Filed
+bb2c8290-d5f,671b66c5e33f,Theft,IPC 379,2018,2,Arrested
+7e00352e-13e,17eecc3ed14d,Cheating,IPC 420,2016,3,Acquitted
+176e3e6c-e6a,de719fcda1fb,Assault,IPC 351,2023,4,Acquitted
+bb271651-19f,6a229980ea7f,Theft,IPC 379,2016,2,Arrested
+843141be-aac,4a4656bdfdcc,Theft,IPC 379,2022,2,Acquitted
+d08d8a63-920,7de382adbc5c,Assault,IPC 351,2020,4,Acquitted
+6d7dc81a-422,34bac4536bb5,Theft,IPC 379,2023,2,Chargesheet Filed
+fac28cb2-5f7,06117bcdda6a,Cheating,IPC 420,2023,3,Acquitted
+c210931a-8f6,151d914791ed,Theft,IPC 379,2021,2,Acquitted
+10219b95-f58,19d2b56a7bec,Cyber Crime,IPC 66C,2015,3,Chargesheet Filed
+f8b24ec3-9c2,91d1e4655c91,Assault,IPC 351,2020,4,Arrested
+e0c62b93-beb,a8dad8f3bf8f,Cyber Crime,IPC 66C,2021,3,Chargesheet Filed
+2dac528a-efe,e87b47d62fcc,Cheating,IPC 420,2022,3,Acquitted
+a191d5ac-ea3,24772083dee3,Cyber Crime,IPC 66C,2020,3,Arrested
+ea31f701-be9,236286343476,Cheating,IPC 420,2021,3,Arrested
+c44251f0-8f6,084a6e9c8250,Theft,IPC 379,2019,2,Acquitted
+b067b369-9a1,a76db8e6ff62,Cheating,IPC 420,2023,3,Arrested
+ccdf08b8-0d2,992a19adfa54,Theft,IPC 379,2016,2,Arrested
+f3d2fbfb-327,9986081cd1d2,Cyber Crime,IPC 66C,2022,3,Acquitted
+9485ef6a-c5d,187addc2d8f2,Cyber Crime,IPC 66C,2021,3,Chargesheet Filed
+283d67ef-2e4,f67b274ae0fb,Cheating,IPC 420,2018,3,Chargesheet Filed
+92987dda-00c,f2cfdc696fff,Assault,IPC 351,2021,4,Arrested
+b4ed988e-1bc,588a8ec9d38f,Theft,IPC 379,2020,2,Acquitted
+241e51de-619,1668232a8de9,Assault,IPC 351,2019,4,Arrested
+51794fa1-301,1988ff44e8d7,Cheating,IPC 420,2020,3,Acquitted
+1625a569-a88,1f10da4e90c2,Assault,IPC 351,2022,4,Arrested
+2262f453-28c,f699e8d49a4d,Cheating,IPC 420,2017,3,Arrested
+cf20574b-854,d0a33c5ccadc,Theft,IPC 379,2023,2,Chargesheet Filed
+42e7be58-732,a5351c9fe8dc,Theft,IPC 379,2017,2,Arrested
+fea3d0f7-676,93b0d0506dc5,Cheating,IPC 420,2023,3,Acquitted
+c2cc0dc5-bec,1175945c546c,Theft,IPC 379,2023,2,Arrested
+067a7f7b-603,3e46677a79fa,Cheating,IPC 420,2016,3,Acquitted
+50564720-3fb,455b237d2ab4,Cheating,IPC 420,2021,3,Acquitted
+07302869-783,161abc2c8bf3,Cheating,IPC 420,2022,3,Acquitted
+216316cd-171,4ed0a990fa28,Cheating,IPC 420,2023,3,Arrested
+7dbc6f2b-ab7,bc1fdc48401d,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+d9653ad2-df4,be79aa6e0965,Theft,IPC 379,2016,2,Chargesheet Filed
+228290c4-22f,070ddd75ed3a,Cheating,IPC 420,2018,3,Arrested
+839201a1-171,ddd2a5076ed7,Assault,IPC 351,2022,4,Arrested
+f359681a-651,dafe8736d0ed,Assault,IPC 351,2021,4,Acquitted
+8d6c0dc1-a9d,146a725b2731,Cyber Crime,IPC 66C,2019,3,Acquitted
+e8efb706-c79,271d3338c8a8,Theft,IPC 379,2023,2,Arrested
+c1d463c0-b12,5f12d2d73ea4,Cheating,IPC 420,2018,3,Arrested
+64402922-eb2,6b60f32a4fc5,Cyber Crime,IPC 66C,2019,3,Arrested
+521af3e9-f6e,803d59202ff7,Assault,IPC 351,2023,4,Chargesheet Filed
+80a2ebc4-dd3,8e90bb86b342,Assault,IPC 351,2023,4,Acquitted
+ade0f31f-148,59858e0c6d86,Theft,IPC 379,2015,2,Arrested
+db07bf35-bd9,0ec63db6c10b,Cyber Crime,IPC 66C,2022,3,Arrested
+879c91ed-f02,8e8eea410b3d,Cyber Crime,IPC 66C,2016,3,Chargesheet Filed
+0cbc0065-ea9,45f670141a1e,Cheating,IPC 420,2023,3,Acquitted
+26c5df3a-c30,1a09e090a6fa,Assault,IPC 351,2022,4,Acquitted
+4ea70494-11c,7b95bc5ab384,Assault,IPC 351,2017,4,Acquitted
+7daa904d-fec,12fc347b9903,Assault,IPC 351,2020,4,Chargesheet Filed
+91940340-e93,1db0dd9809d7,Cyber Crime,IPC 66C,2023,3,Acquitted
+ef602232-d60,eecb7c7f5dee,Theft,IPC 379,2019,2,Acquitted
+1d4d8b5f-ef7,a0944d967c1f,Assault,IPC 351,2022,4,Acquitted
+c2f7788d-b35,a59f3b23cb6a,Theft,IPC 379,2019,2,Arrested
+db6f17fe-413,cf993590e0b4,Cheating,IPC 420,2022,3,Arrested
+2d024285-498,1f509864add4,Assault,IPC 351,2015,4,Arrested
+0a9f5546-950,a77a58bcfa63,Assault,IPC 351,2021,4,Acquitted
+c98208cb-f20,c31cacd82c55,Theft,IPC 379,2022,2,Chargesheet Filed
+5b66e0f4-2ca,6dbaec37eaba,Cyber Crime,IPC 66C,2023,3,Chargesheet Filed
+ca4d94bb-021,e9e45b81d9e9,Theft,IPC 379,2023,2,Acquitted
+1a90f639-e32,996716e97475,Theft,IPC 379,2019,2,Chargesheet Filed
+11b96511-79a,c50630ba1365,Assault,IPC 351,2021,4,Chargesheet Filed
